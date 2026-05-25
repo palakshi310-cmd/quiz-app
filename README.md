@@ -7,5 +7,5 @@
   - **Session & State Management:** Implemented logical checks to handle timer constraints, prevent users from skipping questions, and maintain quiz progress without data loss.
   - **Structured Data Mapping:** Utilized Object-Oriented principles to design scalable models for questions, choices, and user responses, ensuring a clean separation of concerns.
   - **Responsive Result Analytics:** Built an intuitive post-quiz dashboard providing instant performance summaries, complete with correct answer breakdowns and score percentages.
-- 🔗 **[View Repository](Link_Here)** | 📸 **[View Screenshot](./images/quiz_app.png)**
+  
 -
